@@ -172,7 +172,7 @@ kaggleで公開されている、タイタニック号の乗客の生存状況�
 
 のグループに分けられる。
 
-TicketL.png
+![TicketL](https://user-images.githubusercontent.com/68985919/93712307-0373bb00-fb90-11ea-9db4-132ec96491ff.png)
 
 こちらについては当初３グループに分けていたが、後に条件を緩めて５人以上かどうかでグループ分けするとスコアが上昇した
 
