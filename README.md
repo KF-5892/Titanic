@@ -8,7 +8,7 @@ https://qiita.com/jun40vn/items/d8a1f71fae680589e05c
 
 https://qiita.com/tani_AI_Academy/items/62151d7e151024733919
 
-[TOC]
+
 
 
 
